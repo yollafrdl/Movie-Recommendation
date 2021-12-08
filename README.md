@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie Recommendation
 Final project of Computational Intelligence. The purpose of this project is to give ratings and movies recommendation for user based on the user previous ratings for the other movies and previous movie ratings from the other user. Python library used for this project are pandas, numpy, scikit-learn, and keras. 
 
 ## Data
